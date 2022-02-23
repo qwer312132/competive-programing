@@ -1,0 +1,94 @@
+\contentsline {section}{\numberline {1}vimrc}{1}{}%
+\contentsline {section}{\numberline {2}defalt code}{1}{}%
+\contentsline {section}{\numberline {3}Basic}{1}{}%
+\contentsline {subsection}{\numberline {3.1}stringstream}{1}{}%
+\contentsline {subsection}{\numberline {3.2}check}{1}{}%
+\contentsline {subsection}{\numberline {3.3}python-related}{1}{}%
+\contentsline {subsection}{\numberline {3.4}compare}{2}{}%
+\contentsline {section}{\numberline {4}flow}{2}{}%
+\contentsline {subsection}{\numberline {4.1}ISAP}{2}{}%
+\contentsline {subsection}{\numberline {4.2}MinCostFlow}{2}{}%
+\contentsline {subsection}{\numberline {4.3}Dinic}{2}{}%
+\contentsline {subsection}{\numberline {4.4}Kuhn Munkres 最大完美二分匹配}{3}{}%
+\contentsline {subsection}{\numberline {4.5}Directed MST}{3}{}%
+\contentsline {subsection}{\numberline {4.6}SW min-cut (不限S-T的min-cut)}{3}{}%
+\contentsline {subsection}{\numberline {4.7}Max flow with lower/upper bound}{4}{}%
+\contentsline {subsection}{\numberline {4.8}Flow Conclusion}{4}{}%
+\contentsline {section}{\numberline {5}Math}{4}{}%
+\contentsline {subsection}{\numberline {5.1}Fast power}{4}{}%
+\contentsline {subsection}{\numberline {5.2}FFT}{4}{}%
+\contentsline {subsection}{\numberline {5.3}Poly operator}{4}{}%
+\contentsline {subsection}{\numberline {5.4}O(1)mul}{5}{}%
+\contentsline {subsection}{\numberline {5.5}Miller Rabin}{5}{}%
+\contentsline {subsection}{\numberline {5.6}Faulhaber ($\DOTSB \sum@ \slimits@ \limits _{i=1}^{n}i^p$)}{5}{}%
+\contentsline {subsection}{\numberline {5.7}Chinese Remainder}{6}{}%
+\contentsline {subsection}{\numberline {5.8}Pollard Rho}{6}{}%
+\contentsline {subsection}{\numberline {5.9}Josephus Problem}{6}{}%
+\contentsline {subsection}{\numberline {5.10}Gaussian Elimination}{6}{}%
+\contentsline {subsection}{\numberline {5.11}ax+by=gcd}{6}{}%
+\contentsline {subsection}{\numberline {5.12}Roots of Polynomial 找多項式的根}{6}{}%
+\contentsline {subsection}{\numberline {5.13}Primes}{7}{}%
+\contentsline {subsection}{\numberline {5.14}Result}{7}{}%
+\contentsline {section}{\numberline {6}Geometry}{7}{}%
+\contentsline {subsection}{\numberline {6.1}definition}{7}{}%
+\contentsline {subsection}{\numberline {6.2}Intersection of 2 lines}{8}{}%
+\contentsline {subsection}{\numberline {6.3}halfPlaneIntersection}{8}{}%
+\contentsline {subsection}{\numberline {6.4}Convex Hull}{8}{}%
+\contentsline {subsection}{\numberline {6.5}Intersection of 2 segments}{8}{}%
+\contentsline {subsection}{\numberline {6.6}Intersection of circle and segment}{8}{}%
+\contentsline {subsection}{\numberline {6.7}Circle cover}{8}{}%
+\contentsline {subsection}{\numberline {6.8}Convex Hull trick}{9}{}%
+\contentsline {subsection}{\numberline {6.9}Tangent line of two circles}{9}{}%
+\contentsline {subsection}{\numberline {6.10}KD Tree}{9}{}%
+\contentsline {subsection}{\numberline {6.11}Min Enclosing Circle}{10}{}%
+\contentsline {subsection}{\numberline {6.12}Min Enclosing Ball}{10}{}%
+\contentsline {subsection}{\numberline {6.13}Minkowski sum}{11}{}%
+\contentsline {subsection}{\numberline {6.14}Min dist on Cuboid}{11}{}%
+\contentsline {subsection}{\numberline {6.15}Heart of Triangle}{11}{}%
+\contentsline {section}{\numberline {7}Graph}{11}{}%
+\contentsline {subsection}{\numberline {7.1}MaximumClique 最大團}{11}{}%
+\contentsline {subsection}{\numberline {7.2}MaximalClique 極大團}{12}{}%
+\contentsline {subsection}{\numberline {7.3}Strongly Connected Component}{12}{}%
+\contentsline {subsection}{\numberline {7.4}Dynamic MST}{12}{}%
+\contentsline {subsection}{\numberline {7.5}Maximum General graph Matching}{13}{}%
+\contentsline {subsection}{\numberline {7.6}Minimum General Weighted Matching}{13}{}%
+\contentsline {subsection}{\numberline {7.7}Minimum Steiner Tree}{13}{}%
+\contentsline {subsection}{\numberline {7.8}BCC based on vertex}{14}{}%
+\contentsline {subsection}{\numberline {7.9}Min Mean Cycle}{14}{}%
+\contentsline {subsection}{\numberline {7.10}Directed Graph Min Cost Cycle}{14}{}%
+\contentsline {subsection}{\numberline {7.11}K-th Shortest Path}{15}{}%
+\contentsline {subsection}{\numberline {7.12}SPFA}{16}{}%
+\contentsline {subsection}{\numberline {7.13}kruskal}{16}{}%
+\contentsline {subsection}{\numberline {7.14}dijkstra}{16}{}%
+\contentsline {subsection}{\numberline {7.15}LCA}{16}{}%
+\contentsline {subsection}{\numberline {7.16}Bellman}{16}{}%
+\contentsline {subsection}{\numberline {7.17}差分約束}{17}{}%
+\contentsline {subsection}{\numberline {7.18}eulerPath}{17}{}%
+\contentsline {section}{\numberline {8}String}{17}{}%
+\contentsline {subsection}{\numberline {8.1}PalTree}{17}{}%
+\contentsline {subsection}{\numberline {8.2}KMP}{17}{}%
+\contentsline {subsection}{\numberline {8.3}SuffixAutomata}{18}{}%
+\contentsline {subsection}{\numberline {8.4}Aho-Corasick}{18}{}%
+\contentsline {subsection}{\numberline {8.5}Z Value}{18}{}%
+\contentsline {subsection}{\numberline {8.6}ZValue Palindrome}{18}{}%
+\contentsline {subsection}{\numberline {8.7}Smallest Rotation}{18}{}%
+\contentsline {subsection}{\numberline {8.8}Cyclic LCS}{19}{}%
+\contentsline {subsection}{\numberline {8.9}Rolling hash}{19}{}%
+\contentsline {section}{\numberline {9}Data Structure}{19}{}%
+\contentsline {subsection}{\numberline {9.1}Segment tree}{19}{}%
+\contentsline {subsection}{\numberline {9.2}Treap}{19}{}%
+\contentsline {subsection}{\numberline {9.3}Link-Cut Tree}{20}{}%
+\contentsline {subsection}{\numberline {9.4}Disjoint Set}{20}{}%
+\contentsline {subsection}{\numberline {9.5}Trie}{21}{}%
+\contentsline {section}{\numberline {10}DP}{21}{}%
+\contentsline {subsection}{\numberline {10.1}SOS dp}{21}{}%
+\contentsline {subsection}{\numberline {10.2}subsum}{21}{}%
+\contentsline {subsection}{\numberline {10.3}knapsack}{21}{}%
+\contentsline {subsection}{\numberline {10.4}knapsack unlimited}{21}{}%
+\contentsline {subsection}{\numberline {10.5}knapsack limited}{21}{}%
+\contentsline {subsection}{\numberline {10.6}DP on dag}{21}{}%
+\contentsline {subsection}{\numberline {10.7}LIS}{21}{}%
+\contentsline {subsection}{\numberline {10.8}Matrix fast power}{22}{}%
+\contentsline {section}{\numberline {11}Others}{22}{}%
+\contentsline {subsection}{\numberline {11.1}Closest Pair}{22}{}%
+\contentsline {subsection}{\numberline {11.2}Reverse Pair}{22}{}%
