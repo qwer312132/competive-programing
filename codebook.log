@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.9.16)  22 NOV 2021 15:29
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.9.16)  19 MAR 2022 18:28
 entering extended mode
 **./codebook.tex
 (codebook.tex
@@ -529,12 +529,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \c@lstlisting=\count304
 
 (codebook.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (C:\Users\st970\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (C:\Users\st970\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -548,7 +548,7 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                
 (xeCJK)                Try to use `\setCJKmonofont[...]{...}' to define it.
 
-(basic/.vimrc) (basic/defaltcode.cpp) (basic/stringstream.cpp) (basic/run.sh)
+(basic/.vimrc) (basic/defaultcode.cpp) (basic/stringstream.cpp) (basic/run.sh)
 (basic/python_trick.py
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -627,109 +627,130 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[9]) (geometry/mec.cpp) (geometry/minEnclosingBall.cpp
+[9]) (geometry/lowerConcaveHull3.cpp) (geometry/mec.cpp)
+(geometry/minEnclosingBall.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [10]) (geometry/minkowski-convex-hull.cpp) (geometry/minDistonCuboid.cpp)
-(geometry/triangle.cpp) (graph/MaximumClique.cpp
+(geometry/triangle.cpp) (geometry/closest_pair.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[11]) (graph/MaximalClique.cpp) (graph/kosaraju.cpp) (graph/DynamicMST.cpp
+[11]) (graph/MaximumClique.cpp) (graph/MaximalClique.cpp) (graph/kosaraju.cpp)
+(graph/DynamicMST.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[12]) (graph/generalMatching.cpp) (graph/Minimum_General_Weighted_Matching.cpp)
-(graph/MinimumSteinerTree.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[13]) (graph/bcc_vertex.cpp) (graph/MinMeanCycle.cpp)
-(graph/DirectedGraphMinCycle.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[14]) (graph/KSP.cpp
+[12])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+(graph/generalMatching.cpp) (graph/Minimum_General_Weighted_Matching.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[15]) (graph/spfa.cpp) (graph/kruskal.cpp) (graph/dijkstra.cpp) (graph/LCA.cpp)
-(graph/bellman.cpp
+[13]) (graph/MinimumSteinerTree.cpp) (graph/bcc_vertex.cpp)
+(graph/MinMeanCycle.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[16]) (graph/SystemOfDifferenceConstraints.tex) (graph/eulerPath.cpp)
-(string/PalTree2.cpp) (string/KMP.cpp)
+[14]) (graph/DirectedGraphMinCycle.cpp) (graph/KSP.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[17] (string/SAM.cpp) (string/Aho-Corasick.cpp) (string/zvalue.cpp)
+[15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(graph/spfa.cpp) (graph/kruskal.cpp) (graph/dijkstra.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[16]) (graph/LCA.cpp) (graph/bellman.cpp)
+(graph/SystemOfDifferenceConstraints.tex) (graph/eulerPath.cpp)
+(graph/tree_flatten.cpp) (string/PalTree2.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[17]) (string/KMP.cpp) (string/SAIS.cpp) (string/SAM.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[18]) (string/Aho-Corasick.cpp) (string/zvalue.cpp)
 (string/zvalue_palindrome.cpp) (string/minRotation.cpp) (string/cyclicLCS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[18]) (string/rolling_hash.cpp) (dataStructure/seg_tree.cpp)
-(dataStructure/treap_split_key&kth.cpp
+[19]) (string/rolling_hash.cpp) (dataStructure/bin_idx_tree.cpp)
+(dataStructure/seg_tree.cpp) (dataStructure/treap_split_key&kth.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[19]) (dataStructure/link_cut_tree.cpp) (dataStructure/DisjointSet1.cpp
+[20]) (dataStructure/link_cut_tree.cpp) (dataStructure/DisjointSet1.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[20]) (dataStructure/trie.cpp) (dp/SOS_dp.cpp) (dp/subsum.cpp)
-(dp/0_1_problem.cpp) (dp/unlimited_knapsack.cpp) (dp/limited_knapsack.cpp)
-(dp/dp_on_dag.cpp) (dp/lis.cpp)
+[21]) (dataStructure/trie.cpp) (dataStructure/pers_seg_tree.cpp)
+(dataStructure/sqrt_dec.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[21] (dp/matrix_fast_power.cpp) (graph/closest_pair.cpp)
-(others/reverse_pair.cpp)
+[22]) (dp/SOS_dp.cpp) (dp/subsum.cpp) (dp/0_1_problem.cpp)
+(dp/unlimited_knapsack.cpp) (dp/limited_knapsack.cpp) (dp/dp_on_dag.cpp)
+(dp/lis.cpp) (dp/matrix_fast_power.cpp) (others/mos.cpp)
+(others/reverse_pair.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[22] (codebook.aux)
+[23])
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[24
+
+] (codebook.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 10951 strings out of 411335
- 225210 string characters out of 2832716
+ 11047 strings out of 411335
+ 226626 string characters out of 2832716
  2128510 words of memory out of 3000000
- 30944 multiletter control sequences out of 15000+600000
+ 31019 multiletter control sequences out of 15000+600000
  410212 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,12n,81p,250b,1645s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,12n,81p,250b,1656s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on codebook.pdf (22 pages).
+Output written on codebook.pdf (24 pages).

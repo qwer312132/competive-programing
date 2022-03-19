@@ -1,7 +1,6 @@
 bitset<MXN> dp;
 int n, x;
-cin >> n;
-for(int i = 0; i < n; ++i){
+for(int i = 0; i < MXN; ++i){
   cin >> x;
   dp <<= dp | x;
 }

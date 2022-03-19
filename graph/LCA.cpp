@@ -7,15 +7,12 @@ void build(int x,int f){
     for(int i=0;i<LOG;i++){
         anc[x][i] = f;
         f = anc[f][i];
-    }
-}
+} }
 void dfs(int x,int f){
     tin[x] = ti++;
     build(x,f);
     for(auto i:edge[x]){
-        if(i == f){
-            continue;
-        }
+        if(i == f) continue;
         dfs(i,x);
     }
     tout[x] = ti++;
@@ -27,9 +24,7 @@ int query(int x,int y){
     if(isAnc(x,y))  return x;
     if(isAnc(y,x))  return y;
     for(int i=LOG-1;i>=0;i--){
-        if(! isAnc(anc[x][i],y)){
-            x = anc[x][i];
-        }
+        if(!isAnc(anc[x][i],y)) x = anc[x][i];
     }
     return anc[x][0];
 }

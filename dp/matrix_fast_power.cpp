@@ -10,9 +10,9 @@ vector<vector<ll>> operator*(const vector<vector<ll>>& lhs,const vector<vector<l
     }   }   }
     return ret;
 }
-vector<vector<ll>> init_value={{1},{0}};  //第0,1項
-vector<vector<ll>> base={{1,1},{1,0}};    //費式數列轉移式
-vector<vector<ll>> matrix={{1,0},{0,1}};  //單位矩陣
+vector<vector<ll>> init_value={{1},{0}};//第0,1項
+vector<vector<ll>> base={{1,1},{1,0}};//費式數列轉移式
+vector<vector<ll>> matrix={{1,0},{0,1}};//單位矩陣
 while(y){// x^y
     if(y&1) matrix = matrix * base;
     base = base * base;
