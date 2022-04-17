@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.9.16)  19 MAR 2022 18:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.9.16)  17 APR 2022 19:44
 entering extended mode
 **./codebook.tex
 (codebook.tex
@@ -641,7 +641,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[11]) (graph/MaximumClique.cpp) (graph/MaximalClique.cpp) (graph/kosaraju.cpp)
+[11]) (graph/MaximumClique.cpp) (graph/MaximalClique.cpp) (graph/trajan.cpp)
 (graph/DynamicMST.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
