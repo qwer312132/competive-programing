@@ -98,4 +98,4 @@
 \contentsline {subsection}{\numberline {8.8}Matrix Fast Power}{23}{}%
 \contentsline {section}{\numberline {9}Others}{23}{}%
 \contentsline {subsection}{\numberline {9.1}Mo's Algorithm}{23}{}%
-\contentsline {subsection}{\numberline {9.2}Reverse Pair}{23}{}%
+\contentsline {subsection}{\numberline {9.2}Reverse Pair}{24}{}%

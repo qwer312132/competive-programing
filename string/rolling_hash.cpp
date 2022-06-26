@@ -1,3 +1,4 @@
+//H[l, r] = H[r] - H[l-1] * p^(r - l + 1)
 const ll P1 = 75577;
 const ll P2 = 12721;    // 多一個質數 p2
 const ll MOD = 998244353;

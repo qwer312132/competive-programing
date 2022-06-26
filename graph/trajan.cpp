@@ -4,8 +4,7 @@ struct Scc{
   vector<int> E[MXN];
   stack<int> stk;
   void init(int _n){
-    n = _n;
-    num = nScc = 0;
+    n = _n, num = nScc = 0;
     for(int i = 0; i <= n; ++i) E[i].clear();
     FZ(vst); FZ(dfn); FZ(low);
     while(!stk.empty()) stk.pop();
