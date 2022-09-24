@@ -27,8 +27,10 @@
 \contentsline {subsection}{\numberline {3.10}Gaussian Elimination}{6}{}%
 \contentsline {subsection}{\numberline {3.11}ax+by=gcd}{6}{}%
 \contentsline {subsection}{\numberline {3.12}Roots of Polynomial 找多項式的根}{6}{}%
-\contentsline {subsection}{\numberline {3.13}Primes}{7}{}%
-\contentsline {subsection}{\numberline {3.14}Result}{7}{}%
+\contentsline {subsection}{\numberline {3.13}Primes}{6}{}%
+\contentsline {subsection}{\numberline {3.14}linear sieve}{7}{}%
+\contentsline {subsection}{\numberline {3.15}inverse factor}{7}{}%
+\contentsline {subsection}{\numberline {3.16}Result}{7}{}%
 \contentsline {section}{\numberline {4}Geometry}{7}{}%
 \contentsline {subsection}{\numberline {4.1}definition}{7}{}%
 \contentsline {subsection}{\numberline {4.2}Intersection of 2 lines}{8}{}%
@@ -39,63 +41,57 @@
 \contentsline {subsection}{\numberline {4.7}Circle cover}{8}{}%
 \contentsline {subsection}{\numberline {4.8}Convex Hull trick}{9}{}%
 \contentsline {subsection}{\numberline {4.9}Tangent line of two circles}{9}{}%
-\contentsline {subsection}{\numberline {4.10}KD Tree}{9}{}%
-\contentsline {subsection}{\numberline {4.11}Lower Concave Hull}{10}{}%
-\contentsline {subsection}{\numberline {4.12}Min Enclosing Circle}{10}{}%
-\contentsline {subsection}{\numberline {4.13}Min Enclosing Ball}{10}{}%
-\contentsline {subsection}{\numberline {4.14}Minkowski Sum}{11}{}%
-\contentsline {subsection}{\numberline {4.15}Min dist on Cuboid}{11}{}%
-\contentsline {subsection}{\numberline {4.16}Heart of Triangle}{11}{}%
-\contentsline {subsection}{\numberline {4.17}Closest Pair}{11}{}%
-\contentsline {section}{\numberline {5}Graph}{12}{}%
-\contentsline {subsection}{\numberline {5.1}MaximumClique 最大團}{12}{}%
+\contentsline {subsection}{\numberline {4.10}Lower Concave Hull}{10}{}%
+\contentsline {subsection}{\numberline {4.11}Min Enclosing Circle}{10}{}%
+\contentsline {subsection}{\numberline {4.12}Min Enclosing Ball}{10}{}%
+\contentsline {subsection}{\numberline {4.13}Minkowski Sum}{10}{}%
+\contentsline {subsection}{\numberline {4.14}Min dist on Cuboid}{11}{}%
+\contentsline {subsection}{\numberline {4.15}Heart of Triangle}{11}{}%
+\contentsline {subsection}{\numberline {4.16}Closest Pair}{11}{}%
+\contentsline {section}{\numberline {5}Graph}{11}{}%
+\contentsline {subsection}{\numberline {5.1}MaximumClique 最大團}{11}{}%
 \contentsline {subsection}{\numberline {5.2}MaximalClique 極大團}{12}{}%
 \contentsline {subsection}{\numberline {5.3}Strongly Connected Component}{12}{}%
 \contentsline {subsection}{\numberline {5.4}Dynamic MST}{12}{}%
 \contentsline {subsection}{\numberline {5.5}Maximum General graph Matching}{13}{}%
 \contentsline {subsection}{\numberline {5.6}Minimum General Weighted Matching}{13}{}%
-\contentsline {subsection}{\numberline {5.7}Minimum Steiner Tree}{14}{}%
-\contentsline {subsection}{\numberline {5.8}BCC based on vertex}{14}{}%
-\contentsline {subsection}{\numberline {5.9}Min Mean Cycle}{14}{}%
-\contentsline {subsection}{\numberline {5.10}Directed Graph Min Cost Cycle}{15}{}%
-\contentsline {subsection}{\numberline {5.11}K-th Shortest Path}{15}{}%
-\contentsline {subsection}{\numberline {5.12}SPFA}{16}{}%
-\contentsline {subsection}{\numberline {5.13}Kruskal}{16}{}%
-\contentsline {subsection}{\numberline {5.14}Dijkstra}{16}{}%
-\contentsline {subsection}{\numberline {5.15}LCA}{17}{}%
-\contentsline {subsection}{\numberline {5.16}Bellman}{17}{}%
-\contentsline {subsection}{\numberline {5.17}差分約束}{17}{}%
-\contentsline {subsection}{\numberline {5.18}Euler Path}{17}{}%
-\contentsline {subsection}{\numberline {5.19}Tree Flatten}{17}{}%
+\contentsline {subsection}{\numberline {5.7}BCC based on vertex}{13}{}%
+\contentsline {subsection}{\numberline {5.8}Min Mean Cycle}{14}{}%
+\contentsline {subsection}{\numberline {5.9}Directed Graph Min Cost Cycle}{14}{}%
+\contentsline {subsection}{\numberline {5.10}K-th Shortest Path}{15}{}%
+\contentsline {subsection}{\numberline {5.11}SPFA}{15}{}%
+\contentsline {subsection}{\numberline {5.12}Kruskal}{16}{}%
+\contentsline {subsection}{\numberline {5.13}Dijkstra}{16}{}%
+\contentsline {subsection}{\numberline {5.14}LCA}{16}{}%
+\contentsline {subsection}{\numberline {5.15}Bellman}{16}{}%
+\contentsline {subsection}{\numberline {5.16}Euler Path}{16}{}%
+\contentsline {subsection}{\numberline {5.17}Tree Flatten}{17}{}%
 \contentsline {section}{\numberline {6}String}{17}{}%
 \contentsline {subsection}{\numberline {6.1}PalTree}{17}{}%
-\contentsline {subsection}{\numberline {6.2}KMP}{18}{}%
-\contentsline {subsection}{\numberline {6.3}Suffix Array}{18}{}%
-\contentsline {subsection}{\numberline {6.4}SuffixAutomata}{18}{}%
-\contentsline {subsection}{\numberline {6.5}Aho-Corasick}{19}{}%
-\contentsline {subsection}{\numberline {6.6}Z Value}{19}{}%
-\contentsline {subsection}{\numberline {6.7}ZValue Palindrome}{19}{}%
-\contentsline {subsection}{\numberline {6.8}Smallest Rotation}{19}{}%
-\contentsline {subsection}{\numberline {6.9}Cyclic LCS}{19}{}%
-\contentsline {subsection}{\numberline {6.10}Rolling Hash}{20}{}%
-\contentsline {section}{\numberline {7}Data Structure}{20}{}%
-\contentsline {subsection}{\numberline {7.1}Binary Index Tree}{20}{}%
-\contentsline {subsection}{\numberline {7.2}Segment Tree}{20}{}%
-\contentsline {subsection}{\numberline {7.3}Treap}{20}{}%
-\contentsline {subsection}{\numberline {7.4}Link-Cut Tree}{21}{}%
-\contentsline {subsection}{\numberline {7.5}Disjoint Set}{21}{}%
-\contentsline {subsection}{\numberline {7.6}Trie}{22}{}%
-\contentsline {subsection}{\numberline {7.7}Presistent Segment Tree}{22}{}%
-\contentsline {subsection}{\numberline {7.8}SQRT-Decomposition}{22}{}%
-\contentsline {section}{\numberline {8}DP}{23}{}%
-\contentsline {subsection}{\numberline {8.1}SOS DP}{23}{}%
-\contentsline {subsection}{\numberline {8.2}Subset Sum}{23}{}%
-\contentsline {subsection}{\numberline {8.3}knapsack}{23}{}%
-\contentsline {subsection}{\numberline {8.4}Knapsack Unlimited}{23}{}%
-\contentsline {subsection}{\numberline {8.5}Knapsack Limited}{23}{}%
-\contentsline {subsection}{\numberline {8.6}DP on DAG}{23}{}%
-\contentsline {subsection}{\numberline {8.7}LIS}{23}{}%
-\contentsline {subsection}{\numberline {8.8}Matrix Fast Power}{23}{}%
-\contentsline {section}{\numberline {9}Others}{23}{}%
-\contentsline {subsection}{\numberline {9.1}Mo's Algorithm}{23}{}%
-\contentsline {subsection}{\numberline {9.2}Reverse Pair}{24}{}%
+\contentsline {subsection}{\numberline {6.2}KMP}{17}{}%
+\contentsline {subsection}{\numberline {6.3}Suffix Array}{17}{}%
+\contentsline {subsection}{\numberline {6.4}Z Value}{18}{}%
+\contentsline {subsection}{\numberline {6.5}ZValue Palindrome}{18}{}%
+\contentsline {subsection}{\numberline {6.6}Smallest Rotation}{18}{}%
+\contentsline {subsection}{\numberline {6.7}Cyclic LCS}{18}{}%
+\contentsline {subsection}{\numberline {6.8}Rolling Hash}{18}{}%
+\contentsline {section}{\numberline {7}Data Structure}{18}{}%
+\contentsline {subsection}{\numberline {7.1}Binary Index Tree}{18}{}%
+\contentsline {subsection}{\numberline {7.2}Segment Tree}{19}{}%
+\contentsline {subsection}{\numberline {7.3}Treap}{19}{}%
+\contentsline {subsection}{\numberline {7.4}Disjoint Set}{19}{}%
+\contentsline {subsection}{\numberline {7.5}Trie}{19}{}%
+\contentsline {subsection}{\numberline {7.6}Presistent Segment Tree}{20}{}%
+\contentsline {subsection}{\numberline {7.7}SQRT-Decomposition}{20}{}%
+\contentsline {section}{\numberline {8}DP}{20}{}%
+\contentsline {subsection}{\numberline {8.1}SOS DP}{20}{}%
+\contentsline {subsection}{\numberline {8.2}Subset Sum}{20}{}%
+\contentsline {subsection}{\numberline {8.3}knapsack}{20}{}%
+\contentsline {subsection}{\numberline {8.4}Knapsack Unlimited}{21}{}%
+\contentsline {subsection}{\numberline {8.5}Knapsack Limited}{21}{}%
+\contentsline {subsection}{\numberline {8.6}DP on DAG}{21}{}%
+\contentsline {subsection}{\numberline {8.7}LIS}{21}{}%
+\contentsline {subsection}{\numberline {8.8}Matrix Fast Power}{21}{}%
+\contentsline {section}{\numberline {9}Others}{21}{}%
+\contentsline {subsection}{\numberline {9.1}Mo's Algorithm}{21}{}%
+\contentsline {subsection}{\numberline {9.2}Reverse Pair}{21}{}%

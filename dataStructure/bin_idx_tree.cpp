@@ -4,8 +4,7 @@ void update(int x,int v){
     while(x<=n){
         bit[x] += v;
         x += lowbit(x);
-    }
-}
+} }
 int query(int x){
     int ret=0;
     while(x){// 當不為 0 時
